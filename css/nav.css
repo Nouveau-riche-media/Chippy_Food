@@ -1,5 +1,5 @@
 nav.menu {
-    background: coral;
+    /* background: coral; */
     position: relative;
     min-height: 45px;
     height: 100%;
@@ -43,7 +43,7 @@ nav.menu {
 }
 
 .xs-menu-cont>a {
-    background: none repeat scroll 0 0 #ff7f50;
+    background: none repeat scroll 0 0 #1E1E1E;
     border-radius: 3px;
     padding: 3px 6px;
     display: block;
@@ -61,7 +61,7 @@ nav.menu {
     color: #fff;
     padding: 14px 30px;
     border-bottom: 1px solid #ccc;
-    background: #FF7F50;
+    background: grey;
 
 }
 
@@ -72,7 +72,7 @@ nav.menu {
 .mega-menu {
     background: none repeat scroll 0 0 black;
     left: 0;
-    margin-top: 3px;
+    /* margin-top: 3px; */
     position: absolute;
     width: 100%;
     padding: 15px;
